@@ -1,0 +1,67 @@
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.AssemblyInfo.cs
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.exe
+C:\Users\stud\Desktop\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.deps.json
+C:\Users\stud\Desktop\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.runtimeconfig.json
+C:\Users\stud\Desktop\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.dll
+C:\Users\stud\Desktop\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.pdb
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.dll
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\refint\lab2task2.dll
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.pdb
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.genruntimeconfig.cache
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\ref\lab2task2.dll
+C:\Users\stud\Desktop\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.MainForm.resources
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.exe
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.deps.json
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.runtimeconfig.json
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.dll
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.pdb
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.MainForm.resources
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.GenerateResource.cache
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.AssemblyInfoInputs.cache
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.AssemblyInfo.cs
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.CoreCompileInputs.cache
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.dll
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\refint\lab2task2.dll
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.pdb
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.genruntimeconfig.cache
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\ref\lab2task2.dll
+E:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.AssemblyReference.cache
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.exe
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.deps.json
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.runtimeconfig.json
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.dll
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\ref\lab2task2.dll
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.pdb
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.AssemblyReference.cache
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.MainForm.resources
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.GenerateResource.cache
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.AssemblyInfoInputs.cache
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.AssemblyInfo.cs
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.CoreCompileInputs.cache
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.dll
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\ref\lab2task2.dll
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.pdb
+D:\2-й курс\технологии программирования\2-я лабораторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.genruntimeconfig.cache
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.exe
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.deps.json
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.runtimeconfig.json
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.dll
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\bin\Debug\net6.0-windows\lab2task2.pdb
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.MainForm.resources
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.GenerateResource.cache
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.AssemblyInfoInputs.cache
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.AssemblyInfo.cs
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.csproj.CoreCompileInputs.cache
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.dll
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\refint\lab2task2.dll
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.pdb
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\lab2task2.genruntimeconfig.cache
+E:\2-й курс\технологии программирования\3-я лабараторная работа\lab2task2\lab2task2\obj\Debug\net6.0-windows\ref\lab2task2.dll
